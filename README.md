@@ -11,7 +11,7 @@ DS is a javascript to call A2B CodeMap API methods of KeyGenerator(), DsSigner()
 ## Version:
 
 * v0.1.0, 2016-05-21
-* SHA1： b72a8fe4e2f4ec12523c5df2fe7a2ed4a8ba4f9c *DS.js
+* SHA1: 20b9cf082f0214b0620c7c2399281eeb4db198da *DS.js
 
 - - -
 ## Requires:
