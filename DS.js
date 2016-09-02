@@ -2,14 +2,14 @@
 // __copyright__ = "Copyright (c) 2016 BENM(Binxiao) FENG (Atom2Bit)"
 // __version__ = "v0.1.0, 2016-05-21"
 
-//var crypto        = require('crypto');
-//var assert        = require('assert');
-//var Benchmark     = require('benchmark');
+var crypto        = require('crypto');
+var assert        = require('assert');
+var Benchmark     = require('benchmark');
 var fs            = require('fs');
-//var randomstring  = require("randomstring");
+var randomstring  = require("randomstring");
 
 var tweetnacl     = require('tweetnacl');
-//var tweetnaclfast = require('tweetnacl/nacl-fast');
+var tweetnaclfast = require('tweetnacl/nacl-fast');
 // var jsnacl        = require('js-nacl');
 
 exports.base64_to_Uint8Array = function(input) {
